@@ -1,3 +1,4 @@
+# Anomaly-Detection-Algorithm-using-Gaussian-Mixture-Model
 
 This repository presents an implementation of the Anomaly Detection Algorithm using Gaussian Mixture Model (GMM) for credit card fraud detection. The dataset contains credit card transactions, categorized as fraudulent or non-fraudulent, and includes features such as transaction amount, time, and transaction type.
 
